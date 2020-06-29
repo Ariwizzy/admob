@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841000202954",
+    "firebase_url": "https://wizzy-13ff6.firebaseio.com",
+    "project_id": "wizzy-13ff6",
+    "storage_bucket": "wizzy-13ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841000202954:android:5cccb78c2b413a9b5bfa33",
+        "android_client_info": {
+          "package_name": "com.insurance.eduwizzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841000202954-8p9np9p5r7aee4gpi8qmplt4dl48qlvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2YtcVgSdfWzObEHJP9vKjGqkGnygQCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841000202954-8p9np9p5r7aee4gpi8qmplt4dl48qlvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
